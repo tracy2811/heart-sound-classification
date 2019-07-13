@@ -29,5 +29,5 @@ Implementation is in Python3.
 
 ## Documents
 This project includes:
-   1. 01 [report](https://gitlab.com/fahim17/audio-data-analysis/blob/56aeb877b6b6452f417afaa3f171694ea4b6ca84/report.pdf "report")
-   2. 01 [notebook](https://gitlab.com/fahim17/audio-data-analysis/blob/56aeb877b6b6452f417afaa3f171694ea4b6ca84/all-analysis.ipynb "notebook")
+   1. 01 [report](./report.pdf)
+   2. 01 [notebook](./all-analysis.ipynb)
