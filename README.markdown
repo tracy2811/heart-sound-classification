@@ -1,4 +1,4 @@
-# Audio Signal Analysis using Machine Learning
+# Heart Sound Analysis using Machine Learning
 ----
 * Understand Mel Frequency Cepstral Coefficents (MFCCs)
 * Understand k-Nearest Neighbors (kNN) algorithm
